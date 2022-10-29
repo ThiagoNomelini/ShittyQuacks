@@ -1,0 +1,51 @@
+#camadas{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#logo{
+    height: 200px;
+    width: 250px;
+}
+#camadas img{
+    position: absolute;
+    top: calc(50vh - 128px);
+    left: calc(50vw - 128px);
+    width: 256px;
+    height: 256px;
+}
+#fundo{
+    /* position: absolute;
+    top: 0;
+    left: 0; */
+    z-index: 1;
+    opacity: 0.9;
+}
+#corpo{
+    /* position: absolute;
+    top: 0;
+    left: 64px; */
+    z-index: 2;
+}
+#roupa{
+    z-index: 3;
+}
+#bico{
+    z-index: 4;
+}
+body > main > button > img{
+    position: absolute;
+    top: 80vh;
+    left: calc(50vw - 50px);
+    width: 100px;
+}
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#pato{
+    height: 120px;
+    width: 120px;
+}
+/* #11ACAD #F018B6 #00F0F0 #F0CD18 #A38A08 */
