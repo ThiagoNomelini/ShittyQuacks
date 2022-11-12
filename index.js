@@ -29,9 +29,6 @@ const roupa = [
         raridade: 5
     },
     {
-        nomeArquivo: 'roupinha_10',
-        raridade: 10
-    },{
         nomeArquivo: 'roupinha_20',
         raridade: 20
     },{
