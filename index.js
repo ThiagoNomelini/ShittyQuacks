@@ -72,9 +72,6 @@ const fundo = [
         raridade: 1
     },
     {
-        nomeArquivo: 'fundo_10',
-        raridade: 10
-    },{
         nomeArquivo: 'fundo_15',
         raridade: 15
     },{
