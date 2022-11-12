@@ -1,9 +1,5 @@
 const bicos = [
     {
-        nomeArquivo: 'bico_1',
-        raridade: 1
-    },
-    {
         nomeArquivo: 'bico_5',
         raridade: 5
     },{
@@ -12,9 +8,6 @@ const bicos = [
     },{
         nomeArquivo: 'bico_20',
         raridade: 20
-    },{
-        nomeArquivo: 'bico_40',
-        raridade: 40
     },{
         nomeArquivo: 'bico_50',
         raridade: 50
