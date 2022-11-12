@@ -53,13 +53,6 @@ const roupa = [
 ]
 const corpo = [
     {
-        nomeArquivo: 'corpinho_1',
-        raridade: 1
-    },
-    {
-        nomeArquivo: 'corpinho_10',
-        raridade: 10
-    },{
         nomeArquivo: 'corpinho_15',
         raridade: 15
     },{
