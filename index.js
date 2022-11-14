@@ -23,12 +23,13 @@ const roupa = [
     {
         nomeArquivo: 'roupinha_1',
         raridade: 1
-    },
-    {
+    },{
         nomeArquivo: 'roupinha_5',
         raridade: 5
-    },
-    {
+    },{
+        nomeArquivo: 'roupinha_10',
+        raridade: 10
+    },{
         nomeArquivo: 'roupinha_20',
         raridade: 20
     },{
