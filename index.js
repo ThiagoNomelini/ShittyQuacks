@@ -50,11 +50,44 @@ const roupa = [
 ]
 const corpo = [
     {
+        nomeArquivo: 'corpinho_1',
+        raridade: 1
+    },{
+        nomeArquivo: 'corpinho_5',
+        raridade: 5
+    },{
+        nomeArquivo: 'corpinho_10',
+        raridade: 10
+    },{
         nomeArquivo: 'corpinho_15',
         raridade: 15
     },{
         nomeArquivo: 'corpinho_20',
         raridade: 20
+    },{
+        nomeArquivo: 'corpinho_25',
+        raridade: 25
+    },{
+        nomeArquivo: 'corpinho_30',
+        raridade: 30
+    },{
+        nomeArquivo: 'corpinho_35',
+        raridade: 35
+    },{
+        nomeArquivo: 'corpinho_40',
+        raridade: 40
+    },{
+        nomeArquivo: 'corpinho_45',
+        raridade: 45
+    },{
+        nomeArquivo: 'corpinho_50',
+        raridade: 50
+    },{
+        nomeArquivo: 'corpinho_55',
+        raridade: 55
+    },{
+        nomeArquivo: 'corpinho_60',
+        raridade: 60
     },{
         nomeArquivo: 'corpinho_70',
         raridade: 70
