@@ -30,8 +30,14 @@ const roupa = [
         nomeArquivo: 'roupinha_10',
         raridade: 10
     },{
+        nomeArquivo: 'roupinha_15',
+        raridade: 15
+    },{
         nomeArquivo: 'roupinha_20',
         raridade: 20
+    },{
+        nomeArquivo: 'roupinha_25',
+        raridade: 25
     },{
         nomeArquivo: 'roupinha_30',
         raridade: 30
