@@ -144,14 +144,32 @@ const fundo = [
         nomeArquivo: 'fundo_20',
         raridade: 20
     },{
+        nomeArquivo: 'fundo_25',
+        raridade: 25
+    },{
         nomeArquivo: 'fundo_30',
         raridade: 30
+    },{
+        nomeArquivo: 'fundo_35',
+        raridade: 35
+    },{
+        nomeArquivo: 'fundo_40',
+        raridade: 40
+    },{
+        nomeArquivo: 'fundo_45',
+        raridade: 45
     },{
         nomeArquivo: 'fundo_50',
         raridade: 50
     },{
+        nomeArquivo: 'fundo_55',
+        raridade: 55
+    },{
         nomeArquivo: 'fundo_60',
         raridade: 60
+    },{
+        nomeArquivo: 'fundo_65',
+        raridade: 65
     },{
         nomeArquivo: 'fundo_70',
         raridade: 70
