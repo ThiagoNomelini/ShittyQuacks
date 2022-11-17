@@ -12,8 +12,29 @@ const bicos = [
         nomeArquivo: 'bico_20',
         raridade: 20
     },{
+        nomeArquivo: 'bico_25',
+        raridade: 25
+    },{
+        nomeArquivo: 'bico_30',
+        raridade: 30
+    },{
+        nomeArquivo: 'bico_35',
+        raridade: 35
+    },{
+        nomeArquivo: 'bico_40',
+        raridade: 40
+    },{
+        nomeArquivo: 'bico_45',
+        raridade: 45
+    },{
         nomeArquivo: 'bico_50',
         raridade: 50
+    },{
+        nomeArquivo: 'bico_55',
+        raridade: 55
+    },{
+        nomeArquivo: 'bico_60',
+        raridade: 60
     },{
         nomeArquivo: 'bico_80',
         raridade: 80
