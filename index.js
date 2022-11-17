@@ -75,9 +75,6 @@ const roupa = [
         nomeArquivo: 'roupinha_75',
         raridade: 75
     },{
-        nomeArquivo: 'roupinha_80',
-        raridade: 80
-    },{
         nomeArquivo: 'roupinha_90',
         raridade: 90
     },
