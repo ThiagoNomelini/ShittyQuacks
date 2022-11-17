@@ -6,6 +6,9 @@ const bicos = [
         nomeArquivo: 'bico_10',
         raridade: 10
     },{
+        nomeArquivo: 'bico_15',
+        raridade: 15
+    },{
         nomeArquivo: 'bico_20',
         raridade: 20
     },{
