@@ -48,12 +48,6 @@ const roupa = [
         nomeArquivo: 'roupinha_1',
         raridade: 1
     },{
-        nomeArquivo: 'roupinha_5',
-        raridade: 5
-    },{
-        nomeArquivo: 'roupinha_10',
-        raridade: 10
-    },{
         nomeArquivo: 'roupinha_15',
         raridade: 15
     },{
@@ -81,12 +75,6 @@ const roupa = [
 ]
 const corpo = [
     {
-        nomeArquivo: 'corpinho_1',
-        raridade: 1
-    },{
-        nomeArquivo: 'corpinho_5',
-        raridade: 5
-    },{
         nomeArquivo: 'corpinho_10',
         raridade: 10
     },{
@@ -134,9 +122,6 @@ const fundo = [
     {
         nomeArquivo: 'fundo_1',
         raridade: 1
-    },{
-        nomeArquivo: 'fundo_10',
-        raridade: 10
     },{
         nomeArquivo: 'fundo_15',
         raridade: 15
